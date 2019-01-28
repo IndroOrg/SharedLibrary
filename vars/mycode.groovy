@@ -1,5 +1,5 @@
 def call() {
   println "Indrashis Here::::::::::::::::::::"
-  //GrapeTest gg=new GrapeTest()
-  //gg.testmeth()
+  GrapeTest gg=new GrapeTest()
+  gg.testmeth()
 }
